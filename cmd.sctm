@@ -1,0 +1,164 @@
+SCTM
+```bash
+gcc main.c ascii.c -o ascii_art
+./ascii_art
+————
+
+⸻
+
+🌐 SCTM-for-Life Symbol Registry v1.0
+
+⸻
+
+1️⃣ Core Symbols (Universal Base)
+
+Symbol	Meaning	Notes
+@	Entity / person / object	e.g., @user, @city
+#	Topic / category	e.g., #AI, #Physics
+>	Relation / causation / flow	e.g., rain > flood
+^	Logic / operation / dependency	e.g., x^2
+:	Property / attribute	e.g., emotion:curious
+~	Probability / confidence / weight	e.g., ~0.87
+⧉	Formula / procedure	e.g., ⧉F01 = ∫x^2 dx
+⚡	Action / trigger	e.g., ⚡notify(@user)
+🌟	Energy / emotion / intensity	e.g., 🌟~0.8
+[]	External reference / CDN	e.g., [CDN://physics/newton]
+
+Base count: 10–12 symbols, fully combinable.
+
+⸻
+
+2️⃣ Domain-Specific Extensions
+
+a) Education / Learning
+
+Symbol	Meaning	Example
+📘	Lesson / knowledge block	📘Physics
+📝	Exercise / task	📝Problem1
+💡	Hint / insight	💡Tip: visualize forces
+
+b) Research / Science
+
+Symbol	Meaning	Example
+🧬	Gene / biological element	🧬CRISPR
+🔬	Experiment / lab procedure	🔬measure(cell)
+⚛	Quantum / atomic action	⚛spin>result
+
+c) Medicine / Health
+
+Symbol	Meaning	Example
+💉	Treatment / medication	💉Paracetamol(500mg)
+💊	Drug / dosage	💊Dose:0.5
+🩺	Diagnosis / check	🩺Symptom:headache
+
+d) Urban / Environment
+
+Symbol	Meaning	Example
+🏙️	City / urban system	🏙️NYC
+🚦	Traffic / flow	🚦morning_rush
+🪐	Environmental / planetary context	🪐Climate
+
+e) Art / Expression
+
+Symbol	Meaning	Example
+🎵	Music	🎵Classical
+🎨	Visual art	🎨Painting
+🎭	Performance / theater	🎭Orchestra
+
+f) Social / Communication
+
+Symbol	Meaning	Example
+💬	Message / chat	💬Hello World
+🤝	Agreement / contract	A🤝B
+🗳️	Decision / vote	Vote:Yes
+
+
+⸻
+
+3️⃣ Invented / Experimental Symbols
+
+Symbol	Meaning	Example
+🌀	Complexity / chaos	🌀~0.9
+🧠	Cognition / thought	@AI🧠process>plan~0.95
+🔗	Strong connection / dependency	A🔗B
+✂	Cut / remove / subtract	⚡✂@old_process
+✨	High energy + emotion	@user:happy✨~0.95
+
+Rule: Any new symbol must have a semantic definition and metadata mapping so AI can parse it.
+
+⸻
+
+4️⃣ Combinatorial Rules
+	1.	Entity + Property + Relation:
+
+@user:happy>🌟~0.9
+
+	2.	Topic + Formula + Confidence:
+
+#Physics ⧉F01 = ∫x^2 dx ~0.98
+
+	3.	Action / Trigger on Entity:
+
+⚡notify(@student) if @emotion:confused~>0.7
+
+	4.	Domain Symbol + Base Symbol:
+
+🏙️NYC🚦FlowRate~0.65
+🎭Orchestra@emotion:joy🌟~0.8
+
+
+⸻
+
+5️⃣ Multi-Domain Example Document
+
+# SCTM-for-Life: Multi-Domain Example
+
+@student:Alice
+@emotion:curious🌟~0.8
+📘Lesson:Physics
+💡Tip: "Visualize planets pulling each other"
+
+#Biology
+@cell:stem
+🧬CRISPR⚛measure>⧉P01
+Confidence ~0.92
+Reference: [CDN://bio/crispr/steps]
+
+#Health
+@patient:John
+🩺Symptom:headache
+💉Treatment:Paracetamol(500mg)
+Confidence ~0.95
+
+#Urban Systems
+🏙️NYC
+🚦Traffic:morning_rush>FlowRate~0.65
+Suggestion: redirect>avenueX
+
+#Art
+🎭Orchestra
+@emotion:joy🌟~0.8
+🎵NoteSequence: ⧉N01 = [C4,E4,G4,...]
+VisualEffect: 🌊 pulse intensity ~0.7
+
+#Social
+@speaker:CEO
+@intent:urgent
+#topic:finance
+💬Message: Revenue Q4 > Target
+Confidence ~0.92
+
+	•	Humans read it naturally
+	•	AI parses semantic tags, confidence, formulas, and actions
+	•	Executable, cross-domain, multi-purpose
+
+⸻
+
+✅ Key Notes
+	•	Base symbols: 20–30
+	•	Domain symbols: 30–50 (expandable)
+	•	Invented symbols: unlimited, grows naturally
+	•	Combinatorial power: millions of unique statements possible
+	•	Rules: composable, readable, machine-interpretable
+
+⸻
