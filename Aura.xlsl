@@ -1,0 +1,13 @@
+Physical Assumptions,,,Development Model,,,Buyer's Model,
+Lot Size,6250 sqft,,Land Cost,"$350,000",,Purchase Price,"$801,250"
+Building Area,1500 sqft,,Site Prep,"$18,750",,Down Payment,"$160,250"
+,,,Site Improvement,"$31,250",,Loan Amount,"$641,000"
+,,,Hard Cost,"$375,000",,Mortgage Rate,6.50%
+,,,Soft Cost,"$26,250",,P&I,"$4,052"
+Cost Assumptions,,,Total Cost,"$801,250",,Tax & Insurance,$962
+Land Cost,$56 per sqft,,Developer Profit,$0,,Monthly Payment,"$5,014"
+Site Preparation,$3 per sqft,,Sale Price,"$801,250",,,
+Site Improvements,$5 per sqft,,,,,,
+Hard Cost,$250 per sqft,,,,,,
+Soft Cost,$18 per sqft,,,,,,
+Developer's Margin,Zero,,,,,,
