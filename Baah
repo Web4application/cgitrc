@@ -1,0 +1,3 @@
+gcc -g file.c -o file
+valgrind --leak-check=full ./file
+valgrind --leak-check=full --show-leak-kinds=all ./file
