@@ -1,6 +1,6 @@
 :man source:   cgit
 :man manual:   cgit
-
+	 
 CGITRC(5)
 ========
 
